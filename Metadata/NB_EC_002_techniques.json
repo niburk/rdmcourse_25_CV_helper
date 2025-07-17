@@ -1,0 +1,76 @@
+[
+    {
+        "number": "1",
+        "name": "Open Circuit Voltage",
+        "parameters": {
+            "tR (h:m:s)": "1:00:30.0000",
+            "dER/dt (mV/h)": "1.0",
+            "record": "<Ewe>",
+            "dER (mV)": "0.00",
+            "dtR (s)": "0.5000",
+            "E range min (V)": "-2.500",
+            "E range max (V)": "2.500"
+        }
+    },
+    {
+        "number": "2",
+        "name": "Cyclic Voltammetry",
+        "parameters": {
+            "Ei (V)": "0.000",
+            "vs.": "Eoc",
+            "dE/dt": "1.000",
+            "dE/dt unit": "mV/s",
+            "E1 (V)": "-1.600",
+            "Step percent": "50",
+            "N": "10",
+            "E range min (V)": "-2.500",
+            "E range max (V)": "2.500",
+            "I Range": "Auto",
+            "I Range min": "Unset",
+            "I Range max": "Unset",
+            "I Range init": "Unset",
+            "Bandwidth": "5",
+            "E2 (V)": "-0.200",
+            "nc cycles": "0",
+            "Reverse Scan": "1",
+            "Ef (V)": "0.000"
+        }
+    },
+    {
+        "number": "3",
+        "name": "Open Circuit Voltage",
+        "parameters": {
+            "tR (h:m:s)": "0:30:30.0000",
+            "dER/dt (mV/h)": "1.0",
+            "record": "<Ewe>",
+            "dER (mV)": "0.00",
+            "dtR (s)": "0.5000",
+            "E range min (V)": "-2.500",
+            "E range max (V)": "2.500"
+        }
+    },
+    {
+        "number": "4",
+        "name": "Cyclic Voltammetry",
+        "parameters": {
+            "Ei (V)": "0.000",
+            "vs.": "Eoc",
+            "dE/dt": "1.000",
+            "dE/dt unit": "mV/s",
+            "E1 (V)": "-1.600",
+            "Step percent": "50",
+            "N": "10",
+            "E range min (V)": "-2.500",
+            "E range max (V)": "2.500",
+            "I Range": "Auto",
+            "I Range min": "Unset",
+            "I Range max": "Unset",
+            "I Range init": "Unset",
+            "Bandwidth": "5",
+            "E2 (V)": "-0.200",
+            "nc cycles": "2",
+            "Reverse Scan": "1",
+            "Ef (V)": "0.000"
+        }
+    }
+]
