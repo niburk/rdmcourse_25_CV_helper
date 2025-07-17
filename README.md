@@ -23,5 +23,5 @@ seaborn==0.13.2
 
 ## Roadmap (still to come/planned)
 - better usability --> changable parameters in the measurement can be changed more easy like in the peak finder section with the use of sliders, drop down menus, etc.
--better peak fitting that can detect shoulder peaks better and more reliable
--graphical interface for an even better use
+- better peak fitting that can detect shoulder peaks better and more reliable
+- graphical interface for an even better use
