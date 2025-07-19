@@ -19,6 +19,9 @@ The CV Plot helper is a workflow tool that can visiulise Biologic's .mpr file wi
 - scipy==1.16.0
 - seaborn==0.13.2
 
+## How it works
+Everything is in the notebook CV_Experiments as of now. Paste the path to the Data at the beginning then run the cells that you want. 
+
 
 ## Roadmap (still to come/planned)
 - better usability --> changable parameters in the measurement can be changed more easy like in the peak finder section with the use of sliders, drop down menus, etc.
