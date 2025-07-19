@@ -20,11 +20,11 @@ Initial state :
 Electrolyte : NaCl (0.2M)
 Comments : Fe(CN)63-/Fe(CN)64- 5.10-3 M
 Reference electrode : SCE Saturated Calomel Electrode (0.241 V)
-Electrode surface area : 0.001 cm²
+Electrode surface area : 0.001 cmï¿½
 Characteristic mass : 0.001 g
 Equivalent Weight : 0.000 g/eq.
 Density : 0.000 g/cm3
-Volume (V) : 0.001 cm³
+Volume (V) : 0.001 cmï¿½
 Cycle Definition : Charge/Discharge alternance
 Turn to OCV between techniques
 
